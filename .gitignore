@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+venv/
+models/
+*.h5
+*.ckpt
+.idea/
+.DS_Store
+
