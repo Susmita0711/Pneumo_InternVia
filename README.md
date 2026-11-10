@@ -197,10 +197,3 @@ Both models output a single probability; a threshold of 0.5 yields the class lab
 
 ---
 
-## Screenshots
-*(Add screenshots of each Streamlit page here after first run – e.g., `assets/home_screenshot.png`)*
-
----
-
-*Happy researching! If you need any UI theme tweaks, additional pages, or integration with a plugin, just let me know.*
-
